@@ -40,7 +40,7 @@ export default function Projects() {
             <a href="https://d1alcbp9i5op4n.cloudfront.net/auth/login" target="_blank">
                 <div className="w-[250px]  h-[200px]">
                     <div className="w-[90%] shadow-xl hover:w-full transition-all duration-250 mx-auto">
-                        <img src="/images/apitotal-screen.png" alt="Apitotal Screen" className="rounded-se-sm rounded-ss-sm" />
+                        <img src="/images/ascenso-screen.png" alt="Apitotal Screen" className="rounded-se-sm rounded-ss-sm" />
                         <div className="bg-slate-950 dark:bg-blue-950 text-slate-100 p-3 rounded-ee-sm rounded-es-sm">
                             Ascenso Admin
                         </div>
