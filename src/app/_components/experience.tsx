@@ -35,9 +35,24 @@ export default function Experience() {
                 </div>
 
                 <p className="text-justify">Desarrollo de landing para la empresa Guardsoft</p>
+                <div className="flex gap-5 mt-5 flex-wrap justify-center ">
+                    <img src="/images/ts.svg" alt="TS icono" className="w-16" />
+                    <img src="/images/react.svg" alt="React icono" className="w-16 rounded-full" />
+                    <img src="https://tse3.mm.bing.net/th/id/OIP.DVvWvo4fH06T05R6wg3xowHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Shadcn icono" className="w-16 border rounded-md" />
+                </div>
+
+                <p className="text-justify">Desarrollo de Landing Page para la empresa Kallpa Facturacion</p>
+                <div className="flex gap-5 mt-5 flex-wrap justify-center ">
+                    <img src="/images/ts.svg" alt="TS icono" className="w-16 " />
+                    <img src="/images/angular.svg" alt="Angular icono" className="w-20" />
+                    <img src="https://www.drupal.org/files/issues/2022-09-23/recaptcha-project-browser-transparent.png" alt="Captcha icono" className="w-16" />
+                </div>
+
+                <p className="text-justify">Desarrollo de landing para estudio juridico Vilcatoma</p>
                 <div className="flex gap-5 mt-5 flex-wrap justify-center">
                     <img src="/images/ts.svg" alt="TS icono" className="w-16 " />
                     <img src="/images/react.svg" alt="React icono" className="w-16" />
+                    <img src="https://tse3.mm.bing.net/th/id/OIP.DVvWvo4fH06T05R6wg3xowHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Shadcn icono" className="w-16 border rounded-md" />
                 </div>
                 </>
             }
@@ -56,12 +71,35 @@ export default function Experience() {
             ContentComponent={
                 <>
                 <h1 className="text-3xl font-bold">Desarrollo FullStack</h1>
-                <p> <span className="font-bold">Empresa:</span> Guardsoft</p>
-                <p> <span className="font-bold">Fecha:</span> 2024</p>
+                <p> <span className="font-bold">Empresa:</span> Guardsoft - Cbet - Sky Airline</p>
+                <p> <span className="font-bold">Fecha:</span> 2024 - 2025</p>
                 <p> <span className="font-bold">Lugar:</span> Trujillo, Peru</p>
+                <p className="text-justify">Desarrollo de funcionalidades criticas para el modulo de ORDEN de sky airline</p>
+                <div className="flex  mt-5 flex-wrap justify-center">
+                    <img src="/images/ts.svg" alt="TS icono" className="w-16 mx-auto" />
+                    <img src="/images/angular.svg" alt="Angular icono" className="w-20 mx-auto" />
+                    <img src="/images/nestjs.svg" alt="NestJS icono" className="w-16 mx-auto" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue icono" className="w-16 mx-auto" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ icono" className="w-16 mx-auto" />
+                </div>
+
+                <p className="text-justify">Desarrollo de funcionalidades para mejorar el rendimiento de aplicacion de cbet</p>
+                <div className="flex  mt-5 flex-wrap justify-center">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot icono" className="w-16 mx-auto" />
+                    <img src="/images/ts.svg" alt="TS icono" className="w-16 mx-auto" />
+                    <img src="/images/angular.svg" alt="Angular icono" className="w-20 mx-auto" />
+                    <img src="/images/java.svg" alt="Java icono" className="w-16 mx-auto" />
+                </div>
+
+                <p className="text-justify">Desarrollo de Landing Page y Sistema administrativo de Cimag</p>
+                <div className="flex  mt-5 flex-wrap justify-center">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS icono" className="w-16 mx-auto" />
+                    <img src="https://tse3.mm.bing.net/th/id/OIP.DVvWvo4fH06T05R6wg3xowHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Shadcn icono" className="w-16 mx-auto" />
+                    <img src="/images/ts.svg" alt="TS icono" className="w-16 mx-auto" />
+                </div>
+
                 <p className="text-justify">Desarrollo utilizando NestJS, Angular y AWS, de una aplicación web para la administración de un sistema de Encuestas</p>
                 <div className="flex  mt-5 flex-wrap justify-center">
-                    <img src="/images/ascenso.svg" alt="Ascenso icono" className="w-16 mx-auto" />
                     <img src="/images/ts.svg" alt="TS icono" className="w-16 mx-auto" />
                     <img src="/images/angular.svg" alt="Angular icono" className="w-20 mx-auto" />
                     <img src="/images/nestjs.svg" alt="NestJS icono" className="w-16 mx-auto" />
